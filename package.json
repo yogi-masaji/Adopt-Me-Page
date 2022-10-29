@@ -10,6 +10,8 @@
   "author": "Yogi",
   "license": "Apache-2.0",
   "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
     "eslint": "8.8.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-react-hooks": "^4.3.0",
